@@ -1,0 +1,32 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1739151022
+icon.svg::CompressedTexture2D::6846213437877841012::1738983547::1738983559::1::::<><>::
+::res://addons/::1739135735
+::res://addons/godot-git-plugin/::1739138992
+git_plugin.gdextension::GDExtension::-1::1712608203::0::1::::<><>::
+plugin.cfg::TextFile::-1::1739138992::0::1::::<><>::
+THIRDPARTY.md::TextFile::-1::1712608203::0::1::::<><>::
+::res://addons/godot-git-plugin/linux/::1712608203
+::res://addons/godot-git-plugin/macos/::1739136003
+::res://addons/godot-git-plugin/win64/::1712608203
+::res://assets/::1738985566
+::res://assets/indoors/::1738985081
+furniture.png::CompressedTexture2D::3693198099461880825::1715779158::1738984586::1::::<><>::
+house1.png::CompressedTexture2D::7796127855093117727::1715779160::1738985081::1::::<><>::
+Walls and floors.png::CompressedTexture2D::3326129217426626304::1715778262::1738984586::1::::<><>::
+Windows doors and stairs.png::CompressedTexture2D::3703729135645118361::1715779160::1738984586::1::::<><>::
+::res://assets/sprites/::1738985885
+Char2_32x32.png::CompressedTexture2D::6571506601703659630::1708731150::1738985885::1::::<><>::
+Char3_32x32.png::CompressedTexture2D::9084618762801601251::1708731698::1738985573::1::::<><>::
+::res://players/::1739147845
+character_body_2d.gd::GDScript::-1::1739069436::0::1::::<>CharacterBody2D<>::
+char_2.gd::GDScript::-1::1739069550::0::1::::<>CharacterBody2D<>::
+char_2.tscn::PackedScene::5161576701228367311::1739069697::0::1::::<><>::res://players/char_2.gd<>uid://c0vj0vgk1pdpm::::res://assets/sprites/Char2_32x32.png
+player.gd::GDScript::-1::1739143330::0::1::::<>Area2D<>::
+player.tscn::PackedScene::2430569794225711468::1739147845::0::1::::<><>::res://players/player.gd<>uid://c0vj0vgk1pdpm::::res://assets/sprites/Char2_32x32.png
+ray_cast_2d.gd::GDScript::-1::1739071295::0::1::::<>RefCounted<>::
+::res://scenes/::1739147920
+main.tscn::PackedScene::2121824259597714936::1739147920::0::1::::<><>::uid://bdxokl0bt3dam::::res://scenes/tile_maps/starter_home.tscn<>uid://bavnent7fifh1::::res://players/player.tscn
+::res://scenes/tile_maps/::1739147845
+indoor_1.tscn::PackedScene::435937600555525367::1738984907::0::1::::<><>::uid://bnng4k1fxeacm::::res://assets/indoors/Walls and floors.png
+starter_home.tscn::PackedScene::2645336415237244296::1739147845::0::1::::<><>::uid://bnng4k1fxeacm::::res://assets/indoors/Walls and floors.png

@@ -1,0 +1,4 @@
+res://scenes/main.tscn
+res://players/player.gd
+res://players/player.tscn
+res://scenes/tile_maps/starter_home.tscn
