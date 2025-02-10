@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://5h3eux1t1f0s"]
+
+[ext_resource type="PackedScene" uid="uid://bdxokl0bt3dam" path="res://scenes/tile_maps/starter_home.tscn" id="1_nvfp7"]
+[ext_resource type="PackedScene" uid="uid://bavnent7fifh1" path="res://players/player.tscn" id="2_rv0o5"]
+
+[node name="Main" type="Node2D"]
+
+[node name="StarterHome" parent="." instance=ExtResource("1_nvfp7")]
+
+[node name="Player" parent="." instance=ExtResource("2_rv0o5")]
+position = Vector2(8, 0)
+disable_mode = 1
+collision_layer = 2
+collision_mask = 5
+
+[node name="Camera2D" type="Camera2D" parent="Player"]
+zoom = Vector2(2, 2)
